@@ -9,8 +9,8 @@ JavaScript.
 
 ## Prerequisites
 
--   [JavaScript Array Methods](https://github.com/ga-wdi-boston/js-array-methods)
--   [Ruby Array Methods](https://github.com/ga-wdi-boston/ruby-arrays)
+-   [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods)
+-   [Ruby Array Methods](https://git.generalassemb.ly/ga-wdi-boston/ruby-arrays)
 
 ## Instructions
 
@@ -25,9 +25,9 @@ Starter code is available in [`lib/challenge.js`](lib/challenge.js),
 [`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
 is necessary if you want a code review.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
