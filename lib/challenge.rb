@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Requirements
 
 # Add your function parameters between the parentheses.
