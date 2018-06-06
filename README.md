@@ -21,8 +21,7 @@ JavaScript.
 1. Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js),
-[`lib/challenge.rb`](lib/challenge.rb), and, if you wish to do the bonus,
-[`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
+[`lib/challenge.rb`](lib/challenge.rb). A pull request is not required, but it
 is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
@@ -38,10 +37,7 @@ Complete these exercises in both Ruby and JavaScript:
 
 ## Bonus
 
-Complete the previous exercises in Python. You will have to do this on your own,
-outside of CodeWars, since these kata have not been translated.
-
-Complete the following exercises in Ruby, JavaScript, and Python:
+Complete the following exercises in Ruby and JavaScript:
 
 - [True for Just One?](https://www.codewars.com/kata/enumerable-magic-number-5-true-for-just-one)
 - [True for All?](https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all)
@@ -54,7 +50,6 @@ To run tests for all challenge functions in each language:
 | --- | --- |
 | JavaScript | grunt test |
 | Ruby | rake test |
-| Python | python spec/challenge_spec.py -v |
 
 ## [License](LICENSE)
 
