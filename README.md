@@ -9,20 +9,19 @@ JavaScript.
 
 ## Prerequisites
 
--   [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods)
--   [Ruby Array Methods](https://git.generalassemb.ly/ga-wdi-boston/ruby-arrays)
+- [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
+- [Ruby Array Methods](https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods)
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Install dependencies.
-1.  Create and checkout a new branch to work on.
-1.  Fulfill the listed requirements.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Install dependencies.
+1. Create and checkout a new branch to work on.
+1. Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js),
-[`lib/challenge.rb`](lib/challenge.rb), and, if you wish to do the bonus,
-[`lib/challenge.py`](lib/challenge.py). A pull request is not required, but it
+[`lib/challenge.rb`](lib/challenge.rb). A pull request is not required, but it
 is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
@@ -33,18 +32,15 @@ cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 Complete these exercises in both Ruby and JavaScript:
 
--   [True for Any?](https://www.codewars.com/kata/enumerable-magic-number-2-true-for-any)
--   [True for None?](https://www.codewars.com/kata/enumerable-magic-number-4-true-for-none)
+- [True for Any?](https://www.codewars.com/kata/enumerable-magic-number-2-true-for-any)
+- [True for None?](https://www.codewars.com/kata/enumerable-magic-number-4-true-for-none)
 
 ## Bonus
 
-Complete the previous exercises in Python. You will have to do this on your own,
-outside of CodeWars, since these kata have not been translated.
+Complete the following exercises in Ruby and JavaScript:
 
-Complete the following exercises in Ruby, JavaScript, and Python:
-
--   [True for Just One?](https://www.codewars.com/kata/enumerable-magic-number-5-true-for-just-one)
--   [True for All?](https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all)
+- [True for Just One?](https://www.codewars.com/kata/enumerable-magic-number-5-true-for-just-one)
+- [True for All?](https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all)
 
 ## Testing
 
@@ -54,10 +50,9 @@ To run tests for all challenge functions in each language:
 | --- | --- |
 | JavaScript | grunt test |
 | Ruby | rake test |
-| Python | python spec/challenge_spec.py -v |
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
