@@ -9,8 +9,8 @@ JavaScript.
 
 ## Prerequisites
 
-- [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-methods)
-- [Ruby Array Methods](https://git.generalassemb.ly/ga-wdi-boston/ruby-arrays)
+- [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
+- [Ruby Array Methods](https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods)
 
 ## Instructions
 
