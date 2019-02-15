@@ -7,6 +7,10 @@ JavaScript both have good list processing facilities, but they differ quite a
 bit. This challenge requires you to solve the same two problems in both Ruby and
 JavaScript.
 
+These problems require passing functions as parameters. You should have
+experience with this in Javascript (callbacks) but in order to do this in
+Ruby you should read up on [this article](https://www.oreilly.com/learning/using-blocks-in-ruby).
+
 ## Prerequisites
 
 - [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
