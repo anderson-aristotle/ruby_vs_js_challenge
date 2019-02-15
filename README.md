@@ -20,7 +20,7 @@ Ruby you should read up on [this article](https://www.oreilly.com/learning/using
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Install dependencies.
+1. Install dependencies with `bundle install` and `npm install`.
 1. Create and checkout a new branch to work on.
 1. Fulfill the listed requirements.
 
